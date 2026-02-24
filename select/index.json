@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "真生活",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-24T12:49:13.341695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真生活 - Shinseikatsu [Cover] (feat. Kakashi)",
+      "artist": "Kotoha",
+      "has_synced": true,
+      "path": "select/01_真生活_-_Shinseikatsu_[Cover]_(feat._Kakashi)_Kotoha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真生活 - Cover",
+      "artist": "Kotoha, 案山子",
+      "has_synced": true,
+      "path": "select/02_真生活_-_Cover_Kotoha,_案山子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真生活 (feat. 案山子) - Cover",
+      "artist": "Kotoha, 案山子",
+      "has_synced": true,
+      "path": "select/03_真生活_(feat._案山子)_-_Cover_Kotoha,_案山子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真生活",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_真生活_春猿火.txt"
+    }
+  ]
+}
